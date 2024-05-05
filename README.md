@@ -2,9 +2,9 @@
 
 <!-- level 1: Simple bio and stats  -->
 
-As a DevOps engineer, I am deeply driven by the dynamic landscape of technology, constantly seeking new possibilities in cloud computing and DevOps. </br>
-A lifelong learner, I embrace emerging tools and technologies, translating knowledge into hands-on projects. I thrive on collaboration and welcome opportunities to contribute, eager to learn and grow alongside like-minded professionals.
--->
+As a DevOps engineer, I am deeply driven by the dynamic landscape of technology, constantly seeking new possibilities in cloud computing and DevOps. A lifelong learner, I embrace emerging tools and technologies, translating knowledge into hands-on projects. I thrive on collaboration and welcome opportunities to contribute, eager to learn and grow alongside like-minded professionals. <br/>
+<br/>
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=RuchikaPatel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
