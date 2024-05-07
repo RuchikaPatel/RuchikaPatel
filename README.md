@@ -7,7 +7,7 @@ As a DevOps engineer, I am deeply driven by the dynamic landscape of technology,
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=RuchikaPatel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RuchikaPatel&theme=radical&hide_border=false&include_all_commits=true)<br/>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuchikaPatel&repo=github-readme-stats)](https://github.com/RuchikaPatel/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchikaPatel&langs_count=8) -->
